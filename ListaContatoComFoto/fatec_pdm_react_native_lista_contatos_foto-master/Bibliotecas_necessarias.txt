@@ -1,0 +1,29 @@
+Instalar dentro da pasta do projeto
+
+npm install react-navigation
+npm install react-navigation-stack
+npm install @react-navigation/native
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npm install --save @expo/vector-icons
+npm install --save react-navigation-header-buttons
+npm  install --save redux react-redux redux-thunk
+expo install expo-image-picker
+
+
+
+Icones : https://icons.expo.fyi/
+
+-- icone de galeria
+https://icons.expo.fyi/FontAwesome/photo
+
+-- icone de camera
+https://icons.expo.fyi/MaterialIcons/add-a-photo
+
+
+
+
+Cores tons amarelo
+
+Escuro: #E3A631
+Medio: #EAE59F
+Claro: #F2EFC6
